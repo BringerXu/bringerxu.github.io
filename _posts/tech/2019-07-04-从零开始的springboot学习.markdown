@@ -2,7 +2,7 @@
 layout: post
 title:  "Springboot学习"
 date:   2019-07-04 19:23:38 +0800
-categories: jekyll update
+categories: tech
 ---
 ## 从零开始的JAVA后端框架Springboot学习01
 
@@ -29,3 +29,11 @@ categories: jekyll update
 
 
 有空继续写
+
+
+
+p.s. 
+
+前端有用的一些网址
+
+https://flatuicolors.com/
