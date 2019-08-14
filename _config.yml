@@ -21,8 +21,8 @@ instagram:
 linkedin: 
 
 # avatar and Favicon
-avatar: './avatar.jpg'
-favicon: './avatar.jpg'
+avatar: './avatar.jpeg'
+favicon: './avatar.jpeg'
 
 # disqus config
 disqus:
