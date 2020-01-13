@@ -1,0 +1,3 @@
+spring拦截的方式有三种分别为filter，interceptor，aop。其中后两种在springboot包中，filter是servlet包的工具。
+
+filter只能拦截请求 不能获得
