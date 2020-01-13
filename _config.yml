@@ -21,8 +21,8 @@ instagram:
 linkedin: 
 
 # avatar and Favicon
-avatar: 'avatar2.jpg'
-favicon: 'avatar2.jpg'
+avatar: 'https://ftp.bmp.ovh/imgs/2020/01/65ecd0104d800a07.jpg'
+favicon: 'https://ftp.bmp.ovh/imgs/2020/01/65ecd0104d800a07.jpg'
 
 # disqus config
 disqus:
