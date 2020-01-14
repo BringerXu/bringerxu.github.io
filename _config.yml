@@ -4,7 +4,7 @@ email: 1163369503@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   BX的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://blog.bringerxu.xyz
+# url: http://blog.bringerxu.xyz
 #url: http://yansu.org  the base hostname & protocol for your site
 #rss_url: /pages/feed.xml
 author: Bringer Xu
